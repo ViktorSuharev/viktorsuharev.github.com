@@ -30,10 +30,25 @@ body {
   background-color: #FFFFFF;
 }
 body {
-  color: #000;
+  color: #F012BE\	;
   text-align: center;
-  vertical-align: top;
   text-shadow: 0 1px 3px rgba(0,0,0,.5);
+  background-image:url('rs.jpg');
+  background-repeat:no-repeat;
+  background-size:contain;
+  background-position:bottom;
+}
+
+h1 {
+  color: #d54d7b;
+  font-family: "Great Vibes", cursive;
+  font-size: 85px;
+  line-height: 80px;
+  font-weight: normal;
+  margin-bottom: 0px;
+  margin-top: 40px;
+  text-align: center;
+  text-shadow: 0 1px 1px #fff;
 }
 
 /* Extra markup and styles for table-esque vertical and horizontal centering */
