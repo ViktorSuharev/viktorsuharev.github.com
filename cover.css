@@ -36,7 +36,7 @@ body {
   background-image:url('rs.jpg');
   background-repeat:no-repeat;
   background-size:contain;
-  background-position:bottom;
+  background-position:center;
 }
 
 h1 {
